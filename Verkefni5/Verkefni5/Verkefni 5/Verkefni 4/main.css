@@ -1,0 +1,178 @@
+body{
+	width: 800px;
+	margin: auto;
+	background: #FFBE66;
+}
+
+header,
+aside,
+article,
+article div,
+footer nav,
+footer div,
+footer{
+	padding: 15px;
+	box-sizing: border-box;
+	/*border-width: 1px;
+	border-style: dotted;*/
+
+
+}
+
+header{
+	border-color: blue;
+	/*padding-bottom: 0;*/
+
+}
+
+header nav{
+	/*border-color: blue;
+	border-width: 1px;
+	border-style: dotted;*/
+}
+
+header ul{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	
+}
+
+header li{
+	display: inline-block;
+	padding: 0 30px;
+}
+
+aside{
+	border-color: red;
+}
+
+article{
+	border-color: red;
+}
+
+article div{
+	border-color: red;
+}
+
+footer{
+	border-color: blue;
+	padding: 0;
+}
+
+footer div{
+	border-color: red;
+	/*background: #0DE8E8;*/
+}
+
+footer nav{
+	border-color: red;
+	/*background: #0DE8E8;*/
+}
+
+.flleft{
+	float: left;
+}
+
+.flright{
+	float: right;
+}
+
+.col-1-2{
+	width: 50%;
+}
+
+.col-1-3{
+	width: 33.33333%;
+}
+
+.col-2-3{
+	width: 66.66667%;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  clear: both;
+  *zoom: 1;
+}
+
+.footer1{
+	background: #0DE8E8;
+	font-family: 'Shrikhand', cursive;
+
+}
+.section1{
+	background: #FFF500;
+	font-family: 'Ruslan Display', cursive;
+}
+.aside1{
+	background:#269C1F;
+	font-family: 'Shrikhand', cursive;
+}
+.header1{
+	background: #DE91FF;
+	font-family: 'Lalezar', cursive;
+}
+
+.rest1{
+	background: #FF6A53;
+	font-family: 'Gidugu', sans-serif;
+}
+.footer2{
+	background: #0DE8E8;
+	font-family: 'Inconsolata', monospace;
+
+}
+.section2{
+	background: #E89894;
+	font-family: 'Dosis', sans-serif;
+}
+.aside2{
+	background:#8F9CD1;
+	font-family: 'Indie Flower', cursive;
+}
+.header2{
+	background: #396EFF;
+	font-family: 'Hind', sans-serif;
+}
+
+.rest2{
+	background: #FFCA17;
+	font-family: 'Noto Serif', serif;
+}
+.footer3{
+	background: #615F3B;
+	font-family: 'Lobster', cursive;
+
+}
+.section3{
+	background: #8F3933;
+	font-family: 'Pacifico', cursive;
+}
+.aside3{
+	background:#ACE300;
+	font-family: 'Catamaran', sans-serif;
+}
+.header3{
+	background: #FFEEFF;
+	font-family: 'Almendra SC', serif;
+}
+
+.rest3{
+	background: #543061;
+	font-family: 'Anton', sans-serif;
+}
+.body1{
+
+background: #0C0770;
+}
+.body2{
+	background: #8F5D44;
+}
