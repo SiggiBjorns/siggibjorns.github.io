@@ -20,3 +20,9 @@
 4.      Hvað er útgáfustýring (*Version Control*)? management of changes to documents, computer programs.
 
 5.  Hverjir eru helstu kostir við að nota GIT? Alltaf gott að læra
+
+6.      Hversu oft telur þú að eigi að gera færslur (*commit*) í verkefni? - 7
+
+7.      
+
+​
