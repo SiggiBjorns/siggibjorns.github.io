@@ -3,3 +3,8 @@
 	* ls -  
 	* pwd - 
 	* mkdir - Create folder
+
+2. Hvað gera eftirfarandi Git skipanir?
+	* git clone
+	* git status
+	* git diff
