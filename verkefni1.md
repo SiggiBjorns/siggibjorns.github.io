@@ -16,3 +16,9 @@
     * git checkout - See documentation
 
     * git branch - View all existing branches
+
+4.      Hvað er útgáfustýring (*Version Control*)? management of changes to documents, computer programs.
+
+5.      
+
+​
