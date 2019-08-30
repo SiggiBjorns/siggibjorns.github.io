@@ -25,6 +25,8 @@
 
 7.      Hvað er átt við með *"Working Directory"*?" og *"Staging Area"* í GIT?  Vinnu aðstaða.   
 
+Verkefni lokið.
+
 ​
 
 ​
