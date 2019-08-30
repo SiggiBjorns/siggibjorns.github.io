@@ -23,6 +23,8 @@
 
 6.      Hversu oft telur þú að eigi að gera færslur (*commit*) í verkefni? - 7
 
-7.      
+7.      Hvað er átt við með *"Working Directory"*?" og *"Staging Area"* í GIT?  Vinnu aðstaða.   
+
+​
 
 ​
